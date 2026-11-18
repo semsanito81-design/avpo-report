@@ -1,0 +1,21 @@
+# Данные и БД
+avpo.db
+*.db
+data/*.csv
+_old_data/*.csv
+out/*.xlsx
+
+# Окружение
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Системный мусор
+.DS_Store
+Thumbs.db
+desktop.ini
